@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.mclainskc.com/catering-events");
+header("Location: https://actoff.heroku.com");
 die();
 ?>
