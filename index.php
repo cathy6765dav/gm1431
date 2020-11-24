@@ -1,4 +1,4 @@
 <?php
-header("Location: start-new-product.website/actnor");
+header("Location: https://start-new-product.website/actnor/");
 die();
 ?>
